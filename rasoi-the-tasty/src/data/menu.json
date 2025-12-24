@@ -1,0 +1,212 @@
+{
+  "restaurant": {
+    "name": "Rasoi – The Tasty",
+    "currency": "INR",
+    "type": "Vegetarian"
+  },
+  "menu": [
+    {
+      "category": "Indian Main Course",
+      "items": [
+        { "name": "Rasoi Special Veg", "price": 240 },
+        { "name": "Paneer Tikka Masala", "price": 230 },
+        { "name": "Palak Paneer", "price": 200 },
+        { "name": "Matar Paneer", "price": 200 },
+        { "name": "Paneer Kadai", "price": 200 },
+        { "name": "Paneer Korma", "price": 190 },
+        { "name": "Paneer Makhni", "price": 210 },
+        { "name": "Paneer Mushroom Masala", "price": 220 },
+        { "name": "Paneer Kashmiri", "price": 240 },
+        { "name": "Shahi Paneer", "price": 220 },
+        { "name": "Paneer Butter Masala", "price": 200 },
+        { "name": "Paneer Masala", "price": 190 },
+        { "name": "Paneer Kolhapuri", "price": 190 },
+        { "name": "Paneer Kofta", "price": 200 },
+        { "name": "Paneer Takatak", "price": 220 },
+        { "name": "Paneer Bharta", "price": 210 },
+        { "name": "Paneer Chatpata", "price": 240 },
+        { "name": "Paneer Makhanwala", "price": 240 },
+        { "name": "Veg Makhanwala", "price": 200 },
+        { "name": "Paneer Pasanda", "price": 210 },
+        { "name": "Paneer Labaabdar", "price": 220 },
+        { "name": "Paneer Handi", "price": 210 },
+        { "name": "Paneer Mughlai", "price": 220 },
+        { "name": "Paneer Ki Chatni", "price": 200 },
+        { "name": "Paneer Angara", "price": 220 },
+        { "name": "Veg Hariyali Sabji", "price": 190 },
+        { "name": "Mushroom Kadai", "price": 190 },
+        { "name": "Mushroom Masala", "price": 210 },
+        { "name": "Methi Matar Malai", "price": 190 },
+        { "name": "Aloo Jeera / Aloo Methi", "price": 140 },
+        { "name": "Mix Veg", "price": 160 },
+        { "name": "Sev Tamatar", "price": 180 },
+        { "name": "Dum Aloo Punjabi", "price": 170 },
+        { "name": "Stuff Tomato Capsicum", "price": 180 },
+        { "name": "Navratan Korma", "price": 180 },
+        { "name": "Aloo Gobi", "price": 160 },
+        { "name": "Malai Kofta", "price": 190 },
+        { "name": "Veg Kolhapuri", "price": 170 },
+        { "name": "Veg Kadai", "price": 180 },
+        { "name": "Veg Handi", "price": 190 },
+        { "name": "Kaju Curry", "price": 230 },
+        { "name": "Veg Bhima Matar", "price": 160 },
+        { "name": "Chana Masala", "price": 160 },
+        { "name": "Bhindi Masala", "price": 150 },
+        { "name": "Rasoi Family Masala", "price": 340 }
+      ]
+    },
+    {
+      "category": "Basmati Ki Mahak",
+      "items": [
+        { "name": "Steam Rice", "price": 90 },
+        { "name": "Jeera Rice", "price": 120 },
+        { "name": "Masala Rice", "price": 140 },
+        { "name": "Veg Pulao", "price": 150 },
+        { "name": "Veg Biryani", "price": 170 },
+        { "name": "Kashmiri Pulao", "price": 180 },
+        { "name": "Veg Fried Rice", "price": 140 },
+        { "name": "Veg Schezwan Rice", "price": 160 }
+      ]
+    },
+    {
+      "category": "Tandoori Niyamate",
+      "items": [
+        { "name": "Tandoori Roti", "price": 10 },
+        { "name": "Tawa Roti", "price": 10 },
+        { "name": "Butter Tandoori Roti", "price": 15 },
+        { "name": "Missi Roti", "price": 40 },
+        { "name": "Plain Naan", "price": 30 },
+        { "name": "Butter Naan / Lachha Paratha / Veg Kulcha", "price": 40 },
+        { "name": "Garlic Naan", "price": 50 }
+      ]
+    },
+    {
+      "category": "Choice of Dal",
+      "items": [
+        { "name": "Dal Makhani", "price": 140 },
+        { "name": "Dal Tadka", "price": 140 },
+        { "name": "Dal Palak Lasooni", "price": 140 },
+        { "name": "Dal Kolhapuri", "price": 140 },
+        { "name": "Dal Plain", "price": 90 },
+        { "name": "Dal Tadka Fry", "price": 120 },
+        { "name": "Dal Fry", "price": 110 },
+        { "name": "Mix Dal", "price": 140 }
+      ]
+    },
+    {
+      "category": "Brunch Time",
+      "items": [
+        { "name": "Poha", "price": 60 },
+        { "name": "Upma", "price": 60 },
+        { "name": "Sabudana Khichdi", "price": 70 },
+        { "name": "Aloo Paratha", "price": 80 },
+        { "name": "Paneer Paratha", "price": 100 },
+        { "name": "Gobi Paratha", "price": 80 },
+        { "name": "Mix Veg Paratha", "price": 90 },
+        { "name": "Masala Dosa", "price": 90 },
+        { "name": "Plain Dosa", "price": 60 },
+        { "name": "Idli Sambar", "price": 70 }
+      ]
+    },
+    {
+      "category": "Chinese Rice & Noodle",
+      "items": [
+        { "name": "Veg Fried Rice", "price": 140 },
+        { "name": "Schezwan Fried Rice", "price": 160 },
+        { "name": "Manchurian Fried Rice", "price": 170 },
+        { "name": "Paneer Fried Rice", "price": 170 },
+        { "name": "Mushroom Fried Rice", "price": 160 },
+        { "name": "Veg Hakka Noodles", "price": 140 },
+        { "name": "Schezwan Noodles", "price": 160 },
+        { "name": "Manchurian Noodles", "price": 170 },
+        { "name": "Paneer Hakka Noodles", "price": 170 },
+        { "name": "American Chopsuey", "price": 180 }
+      ]
+    },
+    {
+      "category": "Sandwich",
+      "items": [
+        { "name": "Veg Grilled Sandwich", "price": 90 },
+        { "name": "Cheese Grilled Sandwich", "price": 110 },
+        { "name": "Paneer Grilled Sandwich", "price": 120 },
+        { "name": "Mushroom Grilled Sandwich", "price": 110 },
+        { "name": "Club Sandwich", "price": 130 },
+        { "name": "Veg Open Sandwich", "price": 100 }
+      ]
+    },
+    {
+      "category": "Pizza",
+      "items": [
+        { "name": "Cheese Pizza", "price": 150 },
+        { "name": "Veg Cheese Pizza", "price": 150 },
+        { "name": "Chocolate Pizza", "price": 160 },
+        { "name": "Paneer Chilli Pizza", "price": 170 },
+        { "name": "Mexican Pizza", "price": 170 },
+        { "name": "Cheese Corn Pizza", "price": 160 },
+        { "name": "Paneer Corn Pizza", "price": 170 },
+        { "name": "Paneer Cheese Pizza", "price": 170 },
+        { "name": "Veg Corn Pizza", "price": 160 }
+      ]
+    },
+    {
+      "category": "Soup & Shake",
+      "items": [
+        { "name": "Tomato Soup", "price": 80 },
+        { "name": "Sweet Corn Soup", "price": 90 },
+        { "name": "Hot & Sour Soup", "price": 90 },
+        { "name": "Manchow Soup", "price": 100 },
+        { "name": "Veg Clear Soup", "price": 80 },
+        { "name": "Mango Shake", "price": 90 },
+        { "name": "Chocolate Shake", "price": 100 },
+        { "name": "Vanilla Shake", "price": 90 },
+        { "name": "Strawberry Shake", "price": 100 }
+      ]
+    },
+    {
+      "category": "Salad, Papad & Raita",
+      "items": [
+        { "name": "Green Salad", "price": 60 },
+        { "name": "Fruit Salad", "price": 80 },
+        { "name": "Papad", "price": 20 },
+        { "name": "Masala Papad", "price": 30 },
+        { "name": "Plain Raita", "price": 50 },
+        { "name": "Boondi Raita", "price": 60 },
+        { "name": "Mix Raita", "price": 70 }
+      ]
+    },
+    {
+      "category": "Tikka",
+      "items": [
+        { "name": "Paneer Tikka", "price": 200 },
+        { "name": "Hariyali Paneer Tikka", "price": 210 },
+        { "name": "Achari Paneer Tikka", "price": 210 },
+        { "name": "Mushroom Tikka", "price": 190 },
+        { "name": "Veg Seekh Kebab", "price": 180 },
+        { "name": "Hara Bhara Kebab", "price": 170 }
+      ]
+    },
+    {
+      "category": "Sizzler",
+      "items": [
+        { "name": "Veg Sizzler", "price": 250 },
+        { "name": "Paneer Sizzler", "price": 280 },
+        { "name": "Mushroom Sizzler", "price": 270 },
+        { "name": "Mix Veg Sizzler", "price": 260 }
+      ]
+    },
+    {
+      "category": "Hot & Cold Beverages",
+      "items": [
+        { "name": "Tea", "price": 30 },
+        { "name": "Coffee", "price": 40 },
+        { "name": "Green Tea", "price": 40 },
+        { "name": "Lemon Tea", "price": 40 },
+        { "name": "Cold Coffee", "price": 80 },
+        { "name": "Fresh Lime Soda", "price": 60 },
+        { "name": "Mint Mojito", "price": 70 },
+        { "name": "Orange Juice", "price": 80 },
+        { "name": "Mango Juice", "price": 80 }
+      ]
+    }
+  ]
+}
